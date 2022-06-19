@@ -1,1 +1,2 @@
-
+config:
+  info: "master branch,Spring-cloud,test-config/config-test.yml version=1"
